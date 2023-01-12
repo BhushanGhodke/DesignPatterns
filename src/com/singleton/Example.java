@@ -10,7 +10,7 @@ public class Example implements Cloneable {
 	private Example() {
 		
 	}
-	
+	 
 	//3.Cretae a method to check object is null or not
 	
 	//make a method as Synchronized 
