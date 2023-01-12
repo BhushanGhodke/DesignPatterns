@@ -6,8 +6,6 @@ public class Example implements Cloneable {
 	
 	private static Example example;
 
-public class Example implements Cloneable{
-private static Example example;
 
 	
 	//2. Make a class constructor as private 
